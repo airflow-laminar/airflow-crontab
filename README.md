@@ -9,11 +9,7 @@ Airflow DAG generation from cron syntax
 
 ## Overview
 
-<<<<<<< before updating
 Wrapper for [airflow-cron](https://github.com/airflow-laminar/airflow-cron).
 
-
-=======
->>>>>>> after updating
 > [!NOTE]
 > This library was generated using [copier](https://copier.readthedocs.io/en/stable/) from the [Base Python Project Template repository](https://github.com/python-project-templates/base).
