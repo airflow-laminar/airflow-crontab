@@ -29,9 +29,7 @@ classifiers = [
     "Programming Language :: Python :: 3.14",
 ]
 
-dependencies = [
-    "airflow-cron",
-]
+dependencies = []
 
 [project.optional-dependencies]
 develop = [
@@ -140,3 +138,10 @@ section-order = [
     "F401",
     "F403",
 ]
+
+[tool.yardang]
+title = "airflow-crontab"
+root = "README.md"
+pages = []
+use-autoapi = true
+
