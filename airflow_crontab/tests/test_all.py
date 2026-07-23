@@ -1,4 +1,4 @@
-from airflow_crontab import *  # noqa
+from airflow_crontab import *
 
 
 def test_all():
